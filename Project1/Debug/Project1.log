@@ -1,0 +1,22 @@
+﻿  oop.cpp
+C:\Users\Владислав\Desktop\ООП ВВ\лаб ооп 1\Project1\oop.cpp(33,16): warning C4244: аргумент: преобразование "double" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Владислав\Desktop\ООП ВВ\лаб ооп 1\Project1\oop.cpp(35,16): warning C4244: аргумент: преобразование "double" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Владислав\Desktop\ООП ВВ\лаб ооп 1\Project1\oop.cpp(37,61): warning C4244: аргумент: преобразование "double" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\Владислав\Desktop\ООП ВВ\лаб ооп 1\Project1\oop.cpp(45,16): warning C4244: аргумент: преобразование "double" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Project1.vcxproj -> C:\Users\Владислав\Desktop\ООП ВВ\лаб ооп 1\Project1\Debug\Project1.exe
